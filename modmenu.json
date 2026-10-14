@@ -1,4 +1,5 @@
 {
-  "version": "8.0.1",
+  "version_name": "8.0.1",
   "version_code": 801,
+  "download_url": "https://github.com/runtimedex/RuntimeX/raw/refs/heads/main/modmenu/{version_code}/{file_name}"
 }
