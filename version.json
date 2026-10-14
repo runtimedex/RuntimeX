@@ -1,0 +1,15 @@
+{
+  "version_name": "5.1.4",
+  "version_code": 514,
+  "download_url": "https://github.com/runtimedex/RuntimeX/releases/download/v5.1.4/RuntimeX-5.1.4.apk",
+  "whats_new": [
+    "Permanent Holst Light Theme with obsidian-contrast actions",
+    "Instant button state transitions without hold delays",
+    "Automated online GitHub update check on launch",
+    "Direct ModMenu updates into root without reinstalling APK"
+  ],
+  "bugs_fixed": [
+    "Fixed landscape sidebar navigation layout",
+    "Fixed advertising ID reset routine"
+  ]
+}
