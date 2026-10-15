@@ -1,15 +1,14 @@
 {
   "version_name": "6.0.1",
-  "version_code": 515,
-  "download_url": "https://github.com/runtimedex/RuntimeX/releases/download/v5.1.4/RuntimeX-5.1.4.apk",
+  "version_code": 601
+  "download_url": "https://github.com/runtimedex/RuntimeX/releases/download/V6.0.1/RuntimeX-6.0.1.apk",
   "whats_new": [
-    "Permanent Holst Light Theme with obsidian-contrast actions",
-    "Instant button state transitions without hold delays",
-    "Automated online GitHub update check on launch",
-    "Direct ModMenu updates into root without reinstalling APK"
+    "Added seamless framework switching for injection",
+    "Added support for Work Profiles (Island, Shelter)",
+    "Implemented automated update checks"
   ],
   "bugs_fixed": [
-    "Fixed landscape sidebar navigation layout",
-    "Fixed advertising ID reset routine"
+    "Improved injection compatibility with VPhoneGaGa and VPhoneOS",
+    "Improved ARM translation for better compatibility and stability"
   ]
 }
